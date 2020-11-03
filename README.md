@@ -2,7 +2,7 @@
 This is a project I've worked on that contains an optimal algorithm to create clusters of grocery items that are most likely to be bought together. The accuracy of the clusters predicted by the chosen algorithm was 96.28%.
 
 ### Abstract.docx
-It contains details about the requirements of the project. the proposed modifications to the existing system. And the Hardware requirements.
+It contains details about the requirements of the project, the proposed modifications to the existing system, and the Hardware requirements.
 
 ### Datasets
 #### item_to_id.csv
