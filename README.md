@@ -1,5 +1,6 @@
 # Clustering-Grocery-Items
 This is a project I've worked on that contains an optimal algorithm to create clusters of grocery items that are most likely to be bought together. The accuracy of the clusters predicted by the chosen algorithm was 96.28%.
+Clustering algorithm Hierarchical clustering from the sklearn library in python is used for clustering the data, and the KMeans algorithm from the same library has been used to visualize the formed clusters.
 
 ### Abstract.docx
 It contains details about the requirements of the project, the proposed modifications to the existing system, and the Hardware requirements.
